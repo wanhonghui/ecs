@@ -5,5 +5,5 @@
 * [附录](fu-lu.md)
   * [签名规则](fu-lu/qian-ming-gui-ze.md)
   * [注意事项](fu-lu/zhu-yi-shi-xiang.md)
-  * 错误编码
+  * [错误编码](fu-lu/cuo-wu-bian-ma.md)
 
